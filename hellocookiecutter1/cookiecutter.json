@@ -1,0 +1,19 @@
+{
+	"directory_name": "Settings",
+	"greeting_recipient": "Julie",
+	"env" :{
+		"alpha" :{
+			"dB":"pg"
+		}	
+	 	,
+	 	"beta" :{
+			 "dB":"local"
+		}		        
+         	
+	},
+	"emotion" : "Hello Everyone!",
+	"base_file": "base",
+	"base_file_info" : "to implement cookiecutter variables"
+    
+
+}
